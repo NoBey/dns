@@ -3,7 +3,7 @@ var server = dns.createServer();
 var datalist ={
   'a.cn': '180.149.132.47',
   'b.cn': '180.149.132.47',
-  'bb.com': '180.149.132.47'
+  'nobey.com': '115.159.217.96'
 }
 
 server.on('request', function (request, response) {
