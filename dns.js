@@ -1,7 +1,7 @@
 var dns = require('native-dns');
 var server = dns.createServer();
 var datalist ={
-  'a.cn': '115.159.217.96',
+  'a.cn': '180.149.132.47',
   'b.cn': 'baidu.com'
 }
 
